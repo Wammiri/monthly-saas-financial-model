@@ -35,7 +35,7 @@ A professional-grade **SaaS FP&A model** built in Excel — designed for founder
 
 ## 🖼️ Preview
 
-![Dashboard Preview](https://github.com/Wammiri/monthly-saas-financial-model/blob/main/preview.png?raw=true)
+![SaaS FP&A Executive Dashboard 2025](https://raw.githubusercontent.com/Wammiri/monthly-saas-financial-model/main/preview.png)
 
 
 ---
