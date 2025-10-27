@@ -1,48 +1,61 @@
-# 📊 Monthly SaaS Financial Model Template
+# 🧾 SaaS Monthly Financial Model (v1.0)
 
-A professional-grade **SaaS FP&A model** built in Excel — designed for founders, analysts, and finance professionals to forecast revenue, expenses, cash flow, and runway.
-
----
-
-## 🧩 Key Features
-
-- Dynamic **monthly SaaS P&L and KPI tracker**
-- Clean **Assumptions → Financials → KPIs → Dashboard** flow
-- Built-in **Operating Cash Flow & Burn Analysis**
-- Executive **Dashboard Summary** (Revenue, Net Burn, Cash Runway, ARR Growth)
-- Structured for clarity, transparency, and investor readiness
+This **Google Sheets-based SaaS Financial Model** helps founders, analysts, and finance teams forecast revenue, growth, and runway with investor-ready clarity.  
+Built to turn raw data into insight — clean, modular, and easy to adapt to any SaaS business.
 
 ---
 
-## 📈 Sheets Overview
+## 🔗 View & Download
 
-| Sheet | Description |
-|:--|:--|
-| **Assumptions & Drivers** | Inputs for growth, churn, pricing, and cost assumptions |
-| **Financials** | Automated income statement and simplified cash flow |
-| **KPIs** | SaaS metrics like ARR, MRR, CAC, LTV, and Net Burn |
-| **Visuals** | Dashboard summary and charts for executive reporting |
+📊 **Live Google Sheets Model** → [Open Here](https://docs.google.com/spreadsheets/d/1AGxxHNlr7Ingu2oJj6pSYw_rXe0kFBs_qpI-9lk-zDU/edit?usp=sharing)  
+📁 **Excel Version (v1.0)** → `Monthly SaaS Template.xlsx`
 
 ---
 
-## 🧠 Designed For
+## 💡 Features
 
-- FP&A professionals showcasing modeling skills  
-- Startup founders managing runway and growth  
-- Finance students building portfolio models  
-
----
-
-## 🖼️ Preview
-
-![SaaS FP&A Executive Dashboard 2025](https://raw.githubusercontent.com/Wammiri/monthly-saas-financial-model/main/preview.png)
-
+- Full-year forecast (**Jan – Dec 2025**)
+- Dynamic inputs: **Growth | Churn | CAC | ARPU**
+- Auto-calculated metrics: **MRR | ARR | Burn Rate | Runway**
+- Scenario-tested ARR projections (~$34K → ~$845K)
+- Investor-ready KPI dashboard + clean visuals
+- Modular structure — plug into any SaaS forecast stack
 
 ---
 
-## 📬 Author
+## 📊 Sheets Included
 
-**Isaac Olorode**  
-📍 Lagos, Nigeria  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/isaacolorode)  
-📧 wamiriworkpage@gmail.com
+| Sheet | Purpose |
+|--------|----------|
+| **ReadMe** | Quick model overview |
+| **Inputs** | Key assumptions and drivers |
+| **Financials** | Monthly P&L and cash flow projection |
+| **KPIs** | Metrics summary for performance tracking |
+| **Visuals** | Clean charts and dashboards |
+
+---
+
+## 🧠 About
+
+Built at **Ajose Advisory** to support founders and finance professionals building scalable SaaS models.  
+Free to clone, edit, and customize.
+
+---
+
+## 🚀 What’s Next (v2.0)
+
+- Automation & cohort metrics  
+- CAC Payback + LTV:CAC visual tracking  
+- Simplified model navigation  
+- Benchmark integration  
+
+---
+
+💬 **Contribute / Feedback**
+Want to collaborate or suggest a feature?  
+Drop a comment on [LinkedIn](https://linkedin.com/in/isaacolorode) or open an issue here on GitHub.  
+
+---
+
+**Author:** [Isaac Olorode](https://linkedin.com/in/isaacolorode)  
+**Tags:** SaaS | FP&A | Financial Modeling | Startup Finance | Google Sheets | Excel
